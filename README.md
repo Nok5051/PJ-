@@ -11,3 +11,11 @@
 * Text Recognition Data Generator 음절 이미지 10만장 생성 https://github.com/Belval/TextRecognitionDataGenerator
   * 기존 저장되어 있는 폰트와 네이버 폰트 받아와 생성 
 
+## 주 사용 모듈 (module)
+1. tensorflow : 구글에서 개발한 오픈소스 형태의 머신러닝 프레임워크 
+2. keras : tensorflow 위에서 동작하는 프레임워크 (단순한 코드로 신경망 조성 가능)
+3. os : 운영체제에서 사용하는 여러 기능을 python 에서 수행할 수 있게 해주는 모듈 
+4. numpy : 분석 및 계산을 할 때 사용하며 배열처리를 위해 필요 
+5. streamlit : 간단한 코드로 사이트를 실행할 수 있게 해주는 모듈 (시각화에 주로 쓰임)
+
+## 
