@@ -16,4 +16,5 @@
 4. numpy : 분석 및 계산을 할 때 사용하며 배열처리를 위해 필요 
 5. streamlit : 간단한 코드로 사이트를 실행할 수 있게 해주는 모듈 (시각화에 주로 쓰임)
 
-## 
+## 참고 
+https://github.com/junstar92/hangul-syllable-recognition
